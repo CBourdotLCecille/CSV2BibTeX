@@ -1,3 +1,17 @@
+<!--//This program has been conceived by Charles Bourdot and Lou Cecille - MSH Nantes
+
+//This program is free software; you can redistribute it and/or
+//modify it under the terms of the GNU General Public
+//License as published by the Free Software Foundation,
+//either version 3 of the License, or
+//(at your option) any later version.
+
+//This program is distributed in the hope that it will be useful,
+//but WITHOUT ANY WARRANTY; without even the implied warranty of
+//MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+//Lesser General Public License for more details.
+//<http://www.gnu.org/licenses/> -->
+
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
