@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--//This program has been conceived by Charles Bourdot and Lou Cecille - MSH Nantes
 
 //This program is free software; you can redistribute it and/or
@@ -11,8 +12,6 @@
 //MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 //Lesser General Public License for more details.
 //<http://www.gnu.org/licenses/> -->
-
-<?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
